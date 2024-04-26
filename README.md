@@ -3,9 +3,9 @@
 ## Tools & Technologies
 
 - [Typescript](http://facebook.github.io/react) for strongly typed programming language.
-- [React](http://facebook.github.io/react) for building client side user interface.
-- [Redux-toolkit] for state management globally
-- [RTK-query] (https://redux-toolkit.js.org/rtk-query/overview) for querying and caching API data
+- [React](http://facebook.github.io/react) for building client-side user interface.
+- [Redux-toolkit](https://redux-toolkit.js.org/) for state management globally
+- [RTK-query](https://redux-toolkit.js.org/rtk-query/overview) for querying and caching API data
 - [jest](https://jestjs.io/) for writing test cases.
 
 ## Features
